@@ -1,0 +1,28 @@
+name: mattwright
+favicon: null
+layout_spectrum: 0.4159254541154951
+typography_spectrum: 0.13734761020168662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.43325484031811357
+  lightness: 0.4054353747051209
+  saturation: 0.9504389639478177
+  rhythmicContrast: 0.25975291384384036
+purpose: []
